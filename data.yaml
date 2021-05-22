@@ -1,0 +1,11 @@
+SMTP_SERVER: 
+From: 
+To: 
+Cc: 
+Email_Attachment_path: None
+Attahment_name: None
+Subject: 
+Mail_Body1: 
+Mail_Body2: 
+Mail_Body3: 
+#Enter None if you don't want attachment
